@@ -1,5 +1,6 @@
 # Description  
-All model architecture and training/testing setting implemented as close as possble to the paper
+- All model architecture and training/testing setting implemented as close as possble to the paper  
+- Results are shown inside the inidividual directories :)
 
 ## VGG  
 1. Comparison between CIFAR-10 and imagewoof dataset training  
