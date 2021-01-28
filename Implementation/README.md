@@ -5,7 +5,8 @@ All model architecture and training/testing setting implemented as close as poss
 1. Comparison between CIFAR-10 and imagewoof dataset training  
 2. Slight modification to the VGG models when deemed appropriate for the dataset  
 3. Altered VGG is VGG without padding so the spacial resolution decreases each CNN layer  
-4. Work on Colab
+4. pretrained with VGG-A, then continued training with VGG-D as in the paper (can be replaced with Xavier Init)
+5. Work on Colab 
 
 ## ResNet  
 1. Comparison of Basic Block vs Bottleneck in ResNet18 (will work on ResNet34 and 50 if there is time)  
