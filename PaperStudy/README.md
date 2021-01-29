@@ -8,9 +8,13 @@
 
 ### [EfficientNet](https://arxiv.org/pdf/1905.11946.pdf)  
 
+### [Fast AutoAugment](https://arxiv.org/pdf/1905.00397.pdf)  
+
 ### [MnasNet](https://arxiv.org/pdf/1807.11626.pdf)  
 
 ### [PPO](https://arxiv.org/pdf/1707.06347.pdf)  
+
+### [RandAugment](https://arxiv.org/pdf/1909.13719.pdf)  
 
 ### [ResNet](https://arxiv.org/pdf/1512.03385.pdf)  
 
