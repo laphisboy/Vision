@@ -14,3 +14,8 @@
 2. Uses CIFAR-10 (but will work with imagewoof if time allows)  
 3. Implemetation allows switching from shortcut type 'A', 'B', and 'mine' which I tried making  
 4. Work on Colab  
+
+## CAM  
+1. Tried using ResNet18 with 'B' shortcut  
+2. The a layer in the last BuildingBlock has its stride altered from 2 to 1 to maintain mapping resolution as 14 x 14  
+3. Work on Colab  
