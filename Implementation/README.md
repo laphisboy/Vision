@@ -9,7 +9,7 @@
 4. pretrained with VGG-A, then continued training with VGG-D as in the paper (can be replaced with Xavier Init)
 5. Work on Colab 
 
-## ResNet  
+## ResNet (W.I.P)   
 1. Comparison of Basic Block vs Bottleneck in ResNet18 (will work on ResNet34 and 50 if there is time)  
 2. Uses CIFAR-10 (but will work with imagewoof if time allows)  
 3. Implemetation allows switching from shortcut type 'A', 'B', and 'mine' which I tried making  
