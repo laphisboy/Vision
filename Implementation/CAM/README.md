@@ -1,4 +1,7 @@
-## Results
+
+## Example of Result Class Activation Map  
+
+![CAM_results](https://github.com/laphisboy/Vision/blob/main/Implementation/CAM/CAM_results.PNG)  
 
 
 
