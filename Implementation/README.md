@@ -26,7 +26,7 @@
 2. Comparison between CAM and Grad-CAM  
 3. Work on Colab  
 
-## STN  
+## STN (work in progress)  
 1. SVHN dataset with ST-CNN Single  
 2. Slight modification due to different image size to the ones used for the paper  
 3. Implementation halfway done for shift from single classification to multi-digit recognition  
