@@ -31,3 +31,7 @@
 2. Slight modification due to different image size to the ones used for the paper  
 3. Implementation halfway done for shift from single classification to multi-digit recognition  
 4. Work on Colab  
+
+## FSRCNN  
+1. Training with T91 and fine-tuning with General-100 dataset
+2. Evaluation based on Set5 images
